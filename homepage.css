@@ -40,6 +40,7 @@ a[href*='beijing'] {
     color: lightblue;
 }
 
+/* Attribute selectors */
 a[href*='seoul'] {
     color: lightpink;
 }
