@@ -1,13 +1,3 @@
-body {
-    background-color: red;
-}
-
-footer {
-    color: white;
-    text-decoration: underline;
-}
-
-
 * {
     border: 1px solid red;
 }
@@ -42,4 +32,10 @@ a[href*='beijing'] {
 
 a[href*='seoul'] {
     color: lightpink;
+}
+
+
+/* Pseudo classes */
+a:hover {
+    color: darkorange;
 }
